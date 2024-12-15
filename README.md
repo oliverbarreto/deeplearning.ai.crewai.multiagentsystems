@@ -2,7 +2,7 @@
 Deeplearning.ai - Course - Multi AI Agent Systems with crewAI
 
 - Course Online: https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/
-- Git repo: https://github.com/deeplearning-ai/crewai-course-multi-ai-agent-systems
+- Git repo: [deeplearning.ai.crewai.multiagentsystems](https://github.com/oliverbarreto/deeplearning.ai.crewai.multiagentsystems.git)
 - Jupiter Notebooks of the course
 - Finished: 10 diciembre 2024
 
